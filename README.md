@@ -84,7 +84,7 @@ For Software:
 Homework 404 is a humorous AI-based web application that analyzes a student's excuse for not completing homework instead of solving the homework for them. The user selects an excuse, enters the homework question, and uploads an image of the homework. The system then generates an entertaining analysis report containing metrics such as believability, laziness level, effort detected, and brain usage, along with an analysis chart and final AI verdict encouraging the student to complete the homework themselves.
 
 # Screenshots
-<img src="https://github.com/user-attachments/assets/abad6fce-e871-4405-a7b2-6832a141b672"> 
+<img src="folder/Screenshot 2026-09-12 012930.png"> 
 
 The homepage of Homework 404 introduces the humorous AI-based platform designed to analyze why students did not complete their homework.
 
